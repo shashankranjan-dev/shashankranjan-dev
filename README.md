@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Ranjan</h1>
-<h3>I am an experienced Software Developer and Tech Lead with a proven track record of architecting and delivering scalable digital solutions across diverse technology stacks. Over the years, I have successfully led teams in building and deploying robust applications using MERN and MEAN stacks, combining modern frontend frameworks with secure and efficient backend systems.</h3>
+<h5>I am an experienced Software Developer and Tech Lead with a proven track record of architecting and delivering scalable digital solutions across diverse technology stacks. Over the years, I have successfully led teams in building and deploying robust applications using MERN and MEAN stacks, combining modern frontend frameworks with secure and efficient backend systems.</h5>
 
 ---
 
@@ -63,11 +63,6 @@
 
 ---
 
-### 🚀 Additional Skills  
-**MERN, MEAN, Next.js, React, React Native, Flutter, Node.js, Express, MongoDB, SQL, AWS, Azure, Swagger, RESTful APIs, GitHub**
-
----
-
 ### 📊 GitHub Stats
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankranjan-dev&show_icons=true&locale=en&layout=compact" />
@@ -75,6 +70,10 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankranjan-dev&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankranjan-dev" />
 </p>
 
 ---
