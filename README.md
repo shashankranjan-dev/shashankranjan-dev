@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India, Learning MERN Stack and Looking for opportunities</h3>
+<h3>I am an experienced Software Developer and Tech Lead with a proven track record of architecting and delivering scalable digital solutions across diverse technology stacks. Over the years, I have successfully led teams in building and deploying robust applications using MERN and MEAN stacks, combining modern frontend frameworks with secure and efficient backend systems.</h3>
 
 ---
 
