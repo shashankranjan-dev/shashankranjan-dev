@@ -1,37 +1,99 @@
-<h1 align="center">Hi 👋, I'm Shashank Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India, Learning MERN Stack and Looking for opportunities</h3>
+🌟 Shashank Ranjan — Tech Lead | Full-Stack & Mobile Developer
+<div align="center">
+👋 Namaste, I'm Shashank
 
+Crafting digital experiences with MERN, MEAN, Next.js, Flutter, DevOps & Cloud.
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Tech+Lead+%26+System+Designer;Cloud+%26+DevOps+Learner;Open+Source+Contributor" /> </div>
+🌐 Connect with Me
+<div align="center">
 
+<a href="https://linkedin.com/in/shashankranjan"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+<a href="https://twitter.com/kingshashank30"><img src="https://skillicons.dev/icons?i=twitter" width="48" /></a>
+<a href="https://dev.to/shashankranjandev"><img src="https://skillicons.dev/icons?i=devto" width="48" /></a>
+<a href="https://hashnode.com/shashankking9955"><img src="https://skillicons.dev/icons?i=hashnode" width="48" /></a>
+<a href="https://fb.com/shashank.king.754"><img src="https://skillicons.dev/icons?i=facebook" width="48" /></a>
+<a href="https://dribbble.com/shashankking9955"><img src="https://skillicons.dev/icons?i=dribbble" width="48" /></a>
+<a href="https://www.hackerearth.com/shashankranjan91"><img src="https://skillicons.dev/icons?i=hackerrank" width="48" /></a>
 
+</div>
+🧑‍💻 About Me
 
+🚀 Working as Tech Lead / CTO
 
-![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/shashankranjan-dev/shashankranjan-dev/assets/70715947/86b554ef-c6ac-45bd-b708-732cc970e0b1)
+💼 Building scalable systems with microservices & modular architecture
 
+🎯 Exploring Next.js, Flutter, Clean Architecture
 
+☁️ Using AWS, Azure, CI/CD, Docker, Kubernetes
 
-- 📫 How to reach me **shashankranjan970832@gmail.com**
+📫 Contact me at: shashankranjan970832@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/shashankranjandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shashankranjandev" height="30" width="40" /></a>
-<a href="https://twitter.com/kingshashank30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingshashank30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashankranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashankranjan" height="30" width="40" /></a>
-<a href="https://fb.com/shashank.king.754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashank.king.754" height="30" width="40" /></a>
-<a href="https://dribbble.com/shashankking9955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shashankking9955" height="30" width="40" /></a>
-<a href="https://hashnode.com/shashankking9955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="shashankking9955" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shashankranjan91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashankranjan91" height="30" width="40" /></a>
-</p>
+🛠️ Tech Stack
+Core Expertise
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+⚡ Skills Summary
+Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashankranjan-dev&show_icons=true&locale=en&layout=compact" alt="shashankranjan-dev" /></p>
+React, Next.js, Tailwind
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashankranjan-dev&show_icons=true&locale=en" alt="shashankranjan-dev" /></p>
+Flutter, React Native
 
-  <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=shashankranjan-dev&"
-        alt="shashankranjan-dev-stats"
-        className="rounded-lg"
-      />
+Backend
+
+Node.js, Express
+
+REST APIs, Swagger
+
+MongoDB, MySQL
+
+Cloud & DevOps
+
+AWS, Azure
+
+Docker, Kubernetes
+
+Git & GitHub Actions
+
+🏆 Achievements
+
+⭐ Built 30+ full-stack projects
+
+⭐ Designed scalable backend systems using microservices
+
+⭐ APIs integrated with flight, train, hotel booking services
+
+⭐ Leading product engineering & team management
+
+⭐ High experience with automation & deployment practices
+
+📈 GitHub Analytics
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=shashankranjan-dev&theme=tokyonight&date_format=M%20j%5B,%20Y%5D" width="49%" /> <img src="https://github-readme-stats.vercel.app/api?username=shashankranjan-dev&show_icons=true&theme=tokyonight" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankranjan-dev&layout=compact&theme=tokyonight" width="49%" /> </div>
+📊 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankranjan-dev&theme=react-dark&hide_border=true&area=true" /> </div>
+🚀 Featured Projects
+🔹 Flight & Hotel Booking Platform (MakeMyTrip-like)
+
+Backend + Admin + App + API integration with scalable architecture
+
+🔹 Microservices-based User Matching System
+
+Tinder-like matching logic for multiple user types
+
+🔹 E-commerce Platform
+
+Full admin dashboard, inventory, payments, order management
+
+🔹 Portfolio Website
+
+Optimized for SEO, lightning-fast, Next.js powered
+
+(I can add project cards with live links if you share them.)
+
+👀 Visitors Count
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=shashankranjan-dev&style=for-the-badge&color=blue" /> </div>
+✨ Quote
+
+“Architecture isn’t about writing code, it’s about designing systems that survive scaling.”
